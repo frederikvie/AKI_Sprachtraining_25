@@ -4,5 +4,9 @@ Dieses Repo enthält Code und Dokumentation für das Projekt Sprachtrainingssyst
 
 ## Projektstruktur
 Das Projekt ist in Github organisiert und gliedert sich in zwei Teile:
-- Das Github Repository zur Verwaltung von Projektcode und -Dokumentation
-- Das zugehörige Projekt für Planung und Management findet sich [hier](https://github.com/users/frederikvie/projects/5).
+- Das **Github Repository** zur Verwaltung von Projektcode und -Dokumentation
+- Das zugehörige **Github Projekt** für Planung und Management findet sich [hier](https://github.com/users/frederikvie/projects/5). Es umfasst mehrere Views:
+    - **Roadmap**: Darstellung des zeitlichen Projektablaufs auf Feature-Ebene gruppiert nach Meilensteinen
+    - **Feature Backlog**: Gesamtübersicht der Projektfeatures, gruppiert nach Meilensteinen
+    - **Current Sprint**: Taskboard zur Übersicht der im aktuellen Sprint anstehenden Work Items und Bugs
+    - **Planning**: Nach Iterationen geordnete Übersicht anstehender Work Items und Bugs zur Nutzung während Planning Meetings 
