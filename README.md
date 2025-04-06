@@ -9,4 +9,5 @@ Das Projekt ist in Github organisiert und gliedert sich in zwei Teile:
     - **Roadmap**: Darstellung des zeitlichen Projektablaufs auf Feature-Ebene, gruppiert nach Meilensteinen
     - **Feature Backlog**: Gesamtübersicht der Projektfeatures, gruppiert nach Meilensteinen
     - **Current Sprint**: Taskboard zur Übersicht der im aktuellen Sprint anstehenden Work Items und Bugs
-    - **Planning**: Nach Iterationen geordnete Übersicht anstehender Work Items und Bugs zur Nutzung während Planning Meetings 
+    - **Planning**: Nach Iterationen geordnete Übersicht anstehender Work Items und Bugs zur Nutzung während Planning Meetings
+    - **My Items**: Übersicht der an mich zugewiesenen Work Items und Bugs
