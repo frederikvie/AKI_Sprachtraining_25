@@ -12,4 +12,5 @@ Das Projekt ist in Github organisiert und gliedert sich in mehrere Teile:
     - **Feature Backlog**: Gesamtübersicht der Projektfeatures, gruppiert nach Meilensteinen
     - **Current Sprint**: Taskboard zur Übersicht der im aktuellen Sprint anstehenden Work Items und Bugs
     - **Planning**: Nach Iterationen geordnete Übersicht anstehender Work Items und Bugs zur Nutzung während Planning Meetings
+    - **Bug Overview**: Nach Priorität geordnete Übersicht offener Bugs
     - **My Items**: Übersicht der an mich zugewiesenen Work Items und Bugs
